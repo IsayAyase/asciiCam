@@ -1,0 +1,14 @@
+[project]
+name = "generator"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "colorama==0.4.6",
+    "numpy==2.2.6",
+    "opencv-python==4.12.0.88",
+    "pillow==12.0.0",
+    "tqdm==4.67.1",
+    "zstandard==0.25.0"
+]
